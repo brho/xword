@@ -40,7 +40,7 @@ enum SizedTextWrapMode
 };
 
 class SizedText
-    : public wxControl
+    : public wxStaticText
 {
 public:
     SizedText() {}
