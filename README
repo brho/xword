@@ -131,6 +131,8 @@ wxAUI
 wxpng
 wxzlib
 
+XWord can also be built with make.  Just run make from the top-level directory.
+
 
 Windows-specific building instructions
 ======================================
